@@ -1,7 +1,7 @@
 {
   "name": "Not Sell",
   "symbol": "NSC",
-  "uri": "https://raw.githubusercontent.com/NotsaleCoin/Notsell-DEV/metadata.json",
+  "url": "https://raw.githubusercontent.com/NotsaleCoin/Notsell-DEV/metadata.json",
   "seller_fee_basis_points": 500,
   "creators": null
 }
