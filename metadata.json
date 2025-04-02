@@ -1,6 +1,7 @@
 {
-    "name": "Not Sell",
-    "symbol": "NSC",
-    "description": "NSC: Lock It, Hold It, Love It!",
-    "image": "https://raw.githubusercontent.com/NotsaleCoin/Notsell-DEV/4830444b582b4ae785f6135fcc2a87f24b5c1b61/Not%20Sell%20coin.png"
-  }
+  "name": "Not Sale",
+  "symbol": "NSC",
+  "uri": "https://raw.githubusercontent.com/NotsaleCoin/Notsell-DEV/metadata.json",
+  "seller_fee_basis_points": 500,
+  "creators": null
+}
